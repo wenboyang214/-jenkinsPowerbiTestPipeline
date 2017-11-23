@@ -18,7 +18,7 @@ namespace JenkinsPipeline
         }
         static void PostToPowerBI(string PostUri)
         {
-            while (times < 51)
+            while (times < 20)
             {
                 try
                 {
